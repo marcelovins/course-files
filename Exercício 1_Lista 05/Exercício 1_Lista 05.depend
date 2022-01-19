@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642445835 source:d:\programar\estudos programação_marcelo\exercício 1_lista 05\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+
