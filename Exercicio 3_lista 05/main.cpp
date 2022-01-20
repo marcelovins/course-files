@@ -9,11 +9,11 @@ int main()
 {
     char nome[50],sexo;
     int idade;
-    printf("digite seu nome:\n\n");
+    printf("type your name:\n\n");
     gets(nome);
-    printf("\ndigite M para masculino ou F para feminino:\n\n");
+    printf("\ntype M for Male or F for Female:\n\n");
     scanf("%c",&sexo);
-    printf("\ndigite sua idade:\n\n");
+    printf("\ntype your age:\n\n");
     scanf("%d",&idade);
 
     if (sexo == 'f' || sexo == 'F' && idade<25)
