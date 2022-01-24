@@ -3,19 +3,20 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string>
-#include <conio.h>
+#include <string.h>
 
 using namespace std;
 
 int main()
 {
-    string nome[50];
-    int B;
+    char nome[50];
+    int B,tam;
     for(B=0;B<4;B++)
     {
         printf("\ndigite o nome:\n");
-        scanf("%s", &nome[B]);
-        printf("\n\nNomes: %s\n\n",nome[B]);
+        gets(nome);
+        tam=strlen(nome);
+        printf("\n\nEsse nome tem %d letras\n\n",tam);
     }
     return 0;
 }
