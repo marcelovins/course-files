@@ -43,10 +43,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guppe/guppe/dicionarios.py" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.Funcões_Parametrizadas">
-    <configuration name="Exercício Função_BairesDev" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Collections_Ordered Dict">
+    <configuration name="Collections_Default Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyStudyGeekSchool" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício Função_BairesDev.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections_Default Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Funcões_Parametrizadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections_Ordered Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyStudyGeekSchool" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +80,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcões_Parametrizadas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections_Ordered Dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Conjuntos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyStudyGeekSchool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conjuntos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyStudyGeekSchool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyStudyGeekSchool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dicionários.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,84 +173,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prova BairesDev" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyStudyGeekSchool" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prova BairesDev.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="loop_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyStudyGeekSchool" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop_for.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tipo_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyStudyGeekSchool" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tipo_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.Collections_Default Dict" />
+      <item itemvalue="Python.Collections_Ordered Dict" />
+      <item itemvalue="Python.Conjuntos" />
+      <item itemvalue="Python.Counter" />
+      <item itemvalue="Python.Dicionários" />
       <item itemvalue="Python.PEP8" />
-      <item itemvalue="Python.Exercício Função_BairesDev" />
-      <item itemvalue="Python.loop_for" />
-      <item itemvalue="Python.tipo_string" />
-      <item itemvalue="Python.Prova BairesDev" />
-      <item itemvalue="Python.Funcões_Parametrizadas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Funcões_Parametrizadas" />
-        <item itemvalue="Python.Prova BairesDev" />
-        <item itemvalue="Python.tipo_string" />
-        <item itemvalue="Python.loop_for" />
-        <item itemvalue="Python.Exercício Função_BairesDev" />
+        <item itemvalue="Python.Collections_Ordered Dict" />
+        <item itemvalue="Python.Collections_Default Dict" />
+        <item itemvalue="Python.Conjuntos" />
+        <item itemvalue="Python.Dicionários" />
+        <item itemvalue="Python.Counter" />
       </list>
     </recent_temporary>
   </component>
@@ -218,33 +219,37 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1644949438079" />
-    <state width="1515" height="280" key="GridCell.Tab.0.bottom" timestamp="1648489286034">
+    <state x="2469" y="135" key="FileChooserDialogImpl" timestamp="1648761644933">
       <screen x="1920" y="-52" width="1536" height="864" />
+    </state>
+    <state x="2469" y="135" key="FileChooserDialogImpl/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648761644933" />
+    <state width="1515" height="280" key="GridCell.Tab.0.bottom" timestamp="1648756113876">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1645561048181" />
-    <state width="1259" height="223" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1647652112150" />
-    <state width="1515" height="280" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648489286034" />
+    <state width="1515" height="280" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1648756113876" />
+    <state width="1515" height="280" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648734886956" />
     <state width="1899" height="294" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1647262097350" />
-    <state width="1515" height="280" key="GridCell.Tab.0.center" timestamp="1648489286034">
-      <screen x="1920" y="-52" width="1536" height="864" />
+    <state width="1515" height="280" key="GridCell.Tab.0.center" timestamp="1648756113876">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1645561048181" />
-    <state width="1259" height="223" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1647652112150" />
-    <state width="1515" height="280" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648489286034" />
+    <state width="1515" height="280" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1648756113876" />
+    <state width="1515" height="280" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648734886956" />
     <state width="1899" height="294" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1647262097350" />
-    <state width="1515" height="280" key="GridCell.Tab.0.left" timestamp="1648489286034">
-      <screen x="1920" y="-52" width="1536" height="864" />
+    <state width="1515" height="280" key="GridCell.Tab.0.left" timestamp="1648756113876">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1645561048181" />
-    <state width="1259" height="223" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1647652112150" />
-    <state width="1515" height="280" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648489286034" />
+    <state width="1515" height="280" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1648756113876" />
+    <state width="1515" height="280" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648734886956" />
     <state width="1899" height="294" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1647262097350" />
-    <state width="1515" height="280" key="GridCell.Tab.0.right" timestamp="1648489286034">
-      <screen x="1920" y="-52" width="1536" height="864" />
+    <state width="1515" height="280" key="GridCell.Tab.0.right" timestamp="1648756113876">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1645561048181" />
-    <state width="1259" height="223" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1647652112150" />
-    <state width="1515" height="280" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648489286034" />
+    <state width="1515" height="280" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1648756113876" />
+    <state width="1515" height="280" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1280.720@1920.-52.1536.864" timestamp="1648734886956" />
     <state width="1899" height="294" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1647262097350" />
     <state width="1515" height="277" key="GridCell.Tab.1.bottom" timestamp="1644951867425">
       <screen x="0" y="0" width="1536" height="864" />
