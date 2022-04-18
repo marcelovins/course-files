@@ -29,7 +29,7 @@ def soma_numeros_positivos(a, b):
 
 
 ret = soma_numeros_positivos(2, 4)  # 6
-ret = soma_numeros_positivos(-2, 4)  # AssertionError
+# ret = soma_numeros_positivos(-2, 4)  # AssertionError
 print(ret)
 
 
@@ -48,7 +48,7 @@ comida = input('Informe a comida: ')
 print(comer_fast_food(comida))
 
 
-# ALERTA: Cuidado ao utilizar 'assert'
+# ALERTA: Cuidado ao utilizar 'assert' é melhor não utilizar
 
 
 def faca_algo_ruim(usuario):

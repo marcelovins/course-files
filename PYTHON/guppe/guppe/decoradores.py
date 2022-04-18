@@ -125,5 +125,23 @@ def admin(request):
 
 """
 
+
 # OBS: Não confunda Decorator com Decorator Function
 
+def seja_educado_mesmo(funcao):
+    def sendo_mesmo():
+        print('Foi um prazer conhecer você!')
+        funcao()
+        print('Tenha um excelente dia!')
+
+    return sendo_mesmo
+
+
+@seja_educado_mesmo
+def apresentando():
+    print('Meu nome é Pedro')
+
+
+apresentando()  # isso é igual ao debaixo, mas de forma mais simples, no debaixo não usei decorador
+
+seja_educado_mesmo(apresentando())
