@@ -196,3 +196,5 @@ print(res)
 
 res = [num + 1 for num in [1, 2, 4, 6, 7]]
 print(res)
+
+

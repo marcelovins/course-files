@@ -23,4 +23,3 @@ def exponencial(numero, potencia=2):
     :return: Retorna o exponencial de 'numero' por 'potencia'.
     """
     return numero ** potencia
-

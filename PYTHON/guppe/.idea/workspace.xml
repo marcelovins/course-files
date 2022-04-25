@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.My_Exercises">
+  <component name="RunManager" selected="Python.docstrings">
     <configuration name="My_Exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decoradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="default_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/decoradores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/default_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="docstrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/docstrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.My_Exercises" />
+        <item itemvalue="Python.docstrings" />
         <item itemvalue="Python.dictionary_comprehension" />
+        <item itemvalue="Python.default_dict" />
         <item itemvalue="Python.deque" />
-        <item itemvalue="Python.kwargs" />
-        <item itemvalue="Python.decoradores" />
+        <item itemvalue="Python.My_Exercises" />
       </list>
     </recent_temporary>
   </component>
@@ -185,26 +185,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="757" height="277" key="GridCell.Tab.0.bottom" timestamp="1650326309558">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="629" height="158" key="GridCell.Tab.0.bottom" timestamp="1650897788686">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="757" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1650326309558" />
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1649773261775" />
-    <state width="757" height="277" key="GridCell.Tab.0.center" timestamp="1650326309558">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="629" height="158" key="GridCell.Tab.0.bottom/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1650897788686" />
+    <state width="629" height="158" key="GridCell.Tab.0.center" timestamp="1650897788685">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="757" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1650326309558" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1649773261775" />
-    <state width="757" height="277" key="GridCell.Tab.0.left" timestamp="1650326309558">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="629" height="158" key="GridCell.Tab.0.center/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1650897788685" />
+    <state width="629" height="158" key="GridCell.Tab.0.left" timestamp="1650897788685">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="757" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1650326309558" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1649773261775" />
-    <state width="757" height="277" key="GridCell.Tab.0.right" timestamp="1650326309558">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="629" height="158" key="GridCell.Tab.0.left/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1650897788685" />
+    <state width="629" height="158" key="GridCell.Tab.0.right" timestamp="1650897788685">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="757" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1650326309558" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1649773261775" />
+    <state width="629" height="158" key="GridCell.Tab.0.right/1920.-52.1536.864/0.0.1280.720@0.0.1280.720" timestamp="1650897788685" />
     <state width="757" height="277" key="GridCell.Tab.1.bottom" timestamp="1650326309558">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
