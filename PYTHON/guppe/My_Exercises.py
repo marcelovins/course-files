@@ -180,7 +180,6 @@ minha_funcao(8, 'Julia')
 minha_funcao(18, 'Felicity', 4, 5, 3, solteiro=True)
 minha_funcao(34, 'Felipe', eu='Não', voce='Vai')
 minha_funcao(19, 'Carla', 9, 4, 3, java=False, python=True)
-"""
 
 
 # Exercise 06 -- dictionary comprehension
@@ -192,9 +191,14 @@ res = {name[i]: value[i] for i in range(0, len(name))}
 
 print(res)
 
-# Exercise 06 -- list comprehension
+# Exercise 07 -- list comprehension
 
 res = [num + 1 for num in [1, 2, 4, 6, 7]]
 print(res)
+"""
+
+
+# Exercise 06 -- dictionary comprehension
+
 
 

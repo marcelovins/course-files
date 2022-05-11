@@ -14,7 +14,7 @@ Para o 'not', o valor do booleano é invertido, ou seja, se for True, vira False
 Para o 'is', o valor é comparado com um segundo.
 
 """
-ativo = True
+ativo = False
 logado = False
 
 if ativo:

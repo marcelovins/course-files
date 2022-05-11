@@ -76,3 +76,7 @@ print(round(1.2121212121, 2))
 print(round(1.21999999, 2))
 
 print(round(1.2121212121))
+
+print(sum([1, 2, 3, 4, 5]))
+
+print(sum([1, 2, 3, 4, 5], 5))
